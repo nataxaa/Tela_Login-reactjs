@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Calculadora" title="#delicinha" src="github/logo.png" width="200px"/>
+  <img alt="Calculadora" title="#delicinha" src=".github/logo.png" width="200px"/>
 </h1>
 
 <h1 align="center">Tela de Login</h1>
