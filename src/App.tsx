@@ -21,15 +21,15 @@ function App() {
       <header>
         <h1>Header do site</h1>
         <nav>
-          <Link to="/">Home</Link>
+          <Link to="/Home"></Link>
           <Link to="/private">Página Privada</Link>
           {auth.user && <button onClick={handleLogout} className="buttonApp">Sair</button>}
         </nav>
       </header>
       <hr />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/private" element={<RequireAuth><Private /></RequireAuth>} />
+        <Route path='/Home' element={<Home/>}></Route>
+        <Route path="/private" element={<RequireAuth><Private/></RequireAuth>} />
       </Routes>
     <GlobalStyle/>
       </Container>
