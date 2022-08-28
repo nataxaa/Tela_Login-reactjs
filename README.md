@@ -2,7 +2,7 @@
   <img alt="Calculadora" title="#delicinha" src="github/logo.png" width="200px"/>
 </h1>
 
-<h1 align="center">Temperatura</h1>
+<h1 align="center">Tela de Login</h1>
 
 <p align="center">
   <a href="https://github.com/nataxaa">
@@ -10,15 +10,15 @@
   </a>
 
   <a href="#">
-    <img alt="Languages" src="https://img.shields.io/github/languages/count/nataxaa/Calculadora-reactjs?color=33A1F2&style=flat-square">
+    <img alt="Languages" src="https://img.shields.io/github/languages/count/nataxaa/Tela_Login-reactjs?color=33A1F2&style=flat-square">
   </a>
 
   <a href="https://github.com/nataxaa/BarberShop/commits/master">
-    <img alt="LastCommit" src="https://img.shields.io/github/last-commit/nataxaa/Calculadora-reactjs?color=33A1F2&style=flat-square">
+    <img alt="LastCommit" src="https://img.shields.io/github/last-commit/nataxaa/Tela_Login-reactjs?color=33A1F2&style=flat-square">
   </a>
 
   <a href="#">
-    <img alt="RepoSize" src="https://img.shields.io/github/repo-size/nataxaa/Calculadora-reactjs?color=33A1F2&style=flat-square">
+    <img alt="RepoSize" src="https://img.shields.io/github/repo-size/nataxaa/Tela_Login-reactjs?color=33A1F2&style=flat-square">
   </a>
 
 </p>
@@ -34,8 +34,8 @@ Projeto de uma base de tela de login feita em ReactJs com TypeScript.
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="github/calculadora.png"/>
-    
+    <img src=".github/imagem1.png"/>
+    <img src=".github/imagem2.png"/>
 </h1>
 
 ## 🚀 Tecnologias
